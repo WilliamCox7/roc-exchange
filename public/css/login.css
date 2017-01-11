@@ -1,0 +1,25 @@
+.login-frame {
+  width: 90%;
+  margin: auto;
+}
+
+.login-frame .action-toggle {
+  width: 100%;
+  padding: 30px;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+
+.login-frame .action-toggle .active {
+  background: black;
+}
+
+.login-frame .action-toggle button {
+  background: blue;
+  border: none;
+  width: 120px;
+  margin: 2px;
+  padding: 10px 20px 10px 20px;
+  color: white;
+}

@@ -1,0 +1,25 @@
+{
+  "name": "roc-exchange",
+  "version": "1.0.0",
+  "description": "An app to mediate roc-pass exchanges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamCox7/roc-exchange.git"
+  },
+  "author": "William Cox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamCox7/roc-exchange/issues"
+  },
+  "homepage": "https://github.com/WilliamCox7/roc-exchange#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "massive": "^2.5.0"
+  }
+}
